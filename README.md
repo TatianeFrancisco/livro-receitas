@@ -4,3 +4,4 @@
 
 - Macarrão à Carbonara
 - Pavê
+- Bolo de Chocolate
